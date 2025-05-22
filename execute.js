@@ -1,4 +1,4 @@
-import configration from "./configration.json" assert { type: "json" };
+import configration from "./configuration.json" assert { type: "json" };
 import { Client, Events, GatewayIntentBits, ActivityType, Partials } from "discord.js";
 import { format } from "date-fns";
 import cron from "node-cron";
