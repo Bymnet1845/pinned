@@ -1,0 +1,15 @@
+{
+  "name": "pinned",
+  "version": "1.0.0",
+  "description": "A discord bot that allows you to pin messages even if you don't have message management permission.",
+  "main": "execute.js",
+  "type": "module",
+  "author": "Bymnet1845",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "discord.js": "^14.19.3",
+    "node-cron": "^4.0.6"
+  }
+}
